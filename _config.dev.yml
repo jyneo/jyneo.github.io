@@ -14,7 +14,7 @@
 # config file for development, DELETE IT IF YOU WANT.
 
 ## Base settings ##
-# url: https://jyneo.online #the base hostname & protocol for your site e.g. https://www.someone.com
+url: https://jyneo.online #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
 title: jyneo's blog
 description: > #this means to ignore newlines until "nav_lists:"
