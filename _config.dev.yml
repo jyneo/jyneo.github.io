@@ -16,9 +16,9 @@
 ## Base settings ##
 # url:  #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
-title: Someone's blog
+title: jyneo's blog
 description: > #this means to ignore newlines until "nav_lists:"
-  Someone's Blog
+  jyneo's Blog
 
 nav_lists:
   - titles:
@@ -30,12 +30,12 @@ nav_lists:
 
 paths:
   base: /
-  home: /
+  home: https://github.com/jyneo/jyneo.github.io
   all:  /all.html
   rss:  /feed.xml
 
 ## GitHub repository (if the site is hosted by GitHub) ##
-repository: someone/someone.github.io
+repository: jyneo/jyneo.github.io
 repository_tree: master
 
 ## Language & timezone ##
@@ -44,11 +44,11 @@ timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_t
 
 ## Author & social ##
 author:
-  name: Someone
-  email: someone@somemail.com  #your Email address e.g. someone@site.com
+  name: jyneo
+  email: 1322893818@qq.com  #your Email address e.g. someone@site.com
   facebook: someone  #your Facebook username
   twitter: someone  #your Twitter username
-  github: someone  #your GitHub username
+  github: jyneo  #your GitHub username
   googleplus:   #your Google+ username
   weibo:   #your Weibo username
   douban:   #your Douban username
