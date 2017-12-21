@@ -1,1 +1,0 @@
-# jyneo.github.io
