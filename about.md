@@ -14,7 +14,7 @@ My Name is Yang Jun, I am a software engineer working at ArcSoft in Hangzhou.
 
 # About Me | 关于我 #
 
-你们好，我叫田琦，这是我的博客。
+你们好，我叫杨军，这是我的博客。
 
 我崇尚 Geek 精神与开源文化，喜欢简洁、优美、模块化的代码。爱折腾，折腾系统，折腾软件，折腾语言，折腾框架……生命不息，折腾不止。
 
