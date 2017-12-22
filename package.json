@@ -16,19 +16,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kitian616/kitian616.github.io.git"
+    "url": "git+https://github.com/jyneo/jyneo.github.io.git"
   },
   "keywords": [
     "jekyll",
     "jekyll-theme",
     "jekyll-template"
   ],
-  "author": "Tian Qi",
+  "author": "yang jun",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kitian616/issues"
+    "url": "https://github.com/jyneo/issues"
   },
-  "homepage": "https://github.com/kitian616#readme",
+  "homepage": "https://github.com/jyneo#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-rename": "^1.2.2",
