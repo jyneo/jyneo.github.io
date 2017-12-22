@@ -12,11 +12,11 @@
 #    `--'   `----''--'   '--' `--'
 
 ## Base settings ##
-# url:  #the base hostname & protocol for your site e.g. https://www.someone.com
+url: https://jyneo.online #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
-title: Someone's blog
+title: jyneo's blog
 description: > #this means to ignore newlines until "nav_lists:"
-  Someone's Blog
+  jyneo's Blog
 
 nav_lists:
   - titles:
@@ -42,14 +42,14 @@ timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_t
 
 ## Author & social ##
 author:
-  name: Someone
-  # email:  #your Email address e.g. someone@site.com
+  name: jyneo
+  email: 1322893818@qq.com #your Email address e.g. someone@site.com
   # facebook:  #your Facebook username
   # twitter:  #your Twitter username
-  # github:  #your GitHub username
+  github: jyneo #your GitHub username
   # googleplus:  #your Google+ username
-  # weibo:  #your Weibo username
-  # douban:  #your Douban username
+  weibo:  #your Weibo username
+  douban:  #your Douban username
   # linkedin:  #your Linkedin username
 
 ## Comment system (Disqus) ##
@@ -95,7 +95,7 @@ exclude:
   - /docs
   - /node_modules
   - /screenshots
-  - /test
+ # - /test
   - /vendor
 
 ## Plugins ##
