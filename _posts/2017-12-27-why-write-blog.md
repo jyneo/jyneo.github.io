@@ -3,9 +3,9 @@ layout: post
 title: 为什么要写博客？
 key: 20171227
 tags: 思考
+category: blog
 date: 27 12, 2017
 modify_date: 27 12, 2017
-category: blog
 ---
 
 ## 一个选择
