@@ -33,8 +33,8 @@ nav_lists:
 #   rss:  /feed.xml
 
 ## GitHub repository (if the site is hosted by GitHub) ##
-# repository:  #e.g. someone/someone.github.io
-# repository_tree:  #e.g. master
+repository: jyneo/jyneo.github.io #e.g. someone/someone.github.io
+repository_tree: master #e.g. master
 
 ## Language & timezone ##
 lang: en #the language of your site, eg: en(English), zh(简体中文), zh-Hans(简体中文), zh-Hant(繁體中文)
@@ -65,7 +65,7 @@ leancloud:
   # app_key:  #LeanCloud App key
   # app_class:  #LeanCloud App class
 
-# mathjax: true
+mathjax: true
 
 ## Paginate ##
 paginate: 5
