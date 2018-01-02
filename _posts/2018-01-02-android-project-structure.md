@@ -124,7 +124,7 @@ task clean(type: Delete) {
 ```
 repositories 的闭包中声明的 jcenter 配置，是一个代码托管仓库，很多 Android 开源项目都托管在 jcenter 上，声明了这行配置，就可以在项目中引用任何 jcenter 上的开源项目了。dependencies 闭包中使用 classpath 声明了一个 gradle 插件，后面的部分是插件的版本号。
 
-### 内层的 build.gradle
+### 内层 build.gradle
 
 app 目录下的 build.gradle 是模块的构建脚本，代码如下所示：
 ```
@@ -194,7 +194,7 @@ dependencies {
 
     - androidTestImplementation 用来声明测试用例库的。
 
-<font color="red">注意：</font>
+<font color="red">注意</font>
 
 > 最新版的 Gradle plugin (Android Gradle plugin 3.0)需要你指出一个 module 的接口是否对外暴露其依赖 lib 的接口。基于此，可以让项目构建时，gradle 可以判断哪个需要重新编译。因此，老版本的构建关键字 compile 被废弃了，改成了这两个：
 
@@ -215,4 +215,4 @@ implementation project(':landscapevideocamera:1.0.0')
 
 <font color="green">总结</font>
 
-理论上，你可以将原来工程中的 compile 完全替换为现在的 api，但是一旦依赖发生变化，将会使所有的 module 重新编译，造成编译过长。更好的方式就是使用implementation 来进行依赖，这会大大改善工程的构建时间。只有你明确要向外部暴露所依赖lib的接口时，才需要使用 api 依赖，整体来说，会减少很多重新编译。
+理论上，你可以将原来工程中的 compile 完全替换为现在的 api，但是一旦依赖发生变化，将会使所有的 module 重新编译，造成编译过长。更好的方式就是使用implementation 来进行依赖，这会大大改善工程的构建时间。只有你明确要向外部暴露所依赖lib的接口时，才需要使用 api 依赖，整体来说，会减少很多重新编译的时间。
