@@ -14,7 +14,7 @@ modify_date: 27 12, 2017
 
 经常在网上看到别人的技术博客，实在是很炫酷，之前也有在csdn上写博客，但总觉得编辑太费劲，于是开始了我的博客之旅。
 
-![https://t1.aixinxi.net/o_1c2c49qp510gs117p1hir11idbqva.png-w.jpg](https://t1.aixinxi.net/o_1c2c49qp510gs117p1hir11idbqva.png-w.jpg)
+![https://t1.aixinxi.net/o_1c2rcdeneoe8tall3u1vgd6tpa.png-j.jpg](https://t1.aixinxi.net/o_1c2rcdeneoe8tall3u1vgd6tpa.png-j.jpg)
 
 那博客里应该写些什么内容呢？
 
@@ -33,7 +33,7 @@ modify_date: 27 12, 2017
 
 因为之前在github上看到 [J神](https://github.com/JakeWharton) 的主页，一年满屏的绿色，真的是敬佩！！
 
-![https://t1.aixinxi.net/o_1c2c2af2p1qfucul1ajvt22189la.png-w.jpg](https://t1.aixinxi.net/o_1c2c2af2p1qfucul1ajvt22189la.png-w.jpg)
+![https://t1.aixinxi.net/o_1c2c2af2p1qfucul1ajvt22189la.png-j.jpg](https://t1.aixinxi.net/o_1c2c2af2p1qfucul1ajvt22189la.png-j.jpg)
 
 ### 积累学习的技术知识
 
