@@ -4,8 +4,8 @@ title: 集中式 vs. 分布式系统架构
 key: 20171226
 tags: 集中式 分布式 系统架构
 category: blog
-date: 26 12, 2017
-modify_date: 27 12, 2017
+date: 28-12-2017
+modify_date: 03-01-2017
 ---
 
 ## 一、前言

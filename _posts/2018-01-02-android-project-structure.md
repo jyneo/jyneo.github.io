@@ -4,8 +4,8 @@ title: Android项目结构解析
 key: 20170102
 tags: android
 category: blog
-date: 02 01, 2018
-modify_date: 02 01, 2018
+date: 02-01-2018
+modify_date: 03-01-2018
 ---
 
 ## Project 模式的项目结构
