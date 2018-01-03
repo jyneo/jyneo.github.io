@@ -5,7 +5,7 @@ key: 20171226
 tags: 集中式 分布式 系统架构
 category: blog
 date: 28-12-2017
-modify_date: 03-01-2017
+modify_date: 03-01-2018
 ---
 
 ## 一、前言
