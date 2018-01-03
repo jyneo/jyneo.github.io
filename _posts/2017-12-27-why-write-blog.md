@@ -4,8 +4,8 @@ title: 为什么要写博客？
 key: 20171227
 tags: 思考
 category: blog
-date: 2017-12-27
-modify_date: 2017-12-27 #27 12, 2017
+date: 27-12-2017
+modify_date: 03-01-2017
 ---
 
 ## 一个选择
