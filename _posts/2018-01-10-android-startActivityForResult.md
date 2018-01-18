@@ -1,6 +1,6 @@
 ---
 layout: post
-title: startActivityForResult requestCode resultCode 分析
+title: startActivityForResult 用法分析
 key: 20180110
 tags: android
 category: blog
@@ -70,7 +70,7 @@ protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 }
 ```
 
-## 结果码 requestCode
+## 结果码 resultCode
 
 使用场景分析：在一个 Activity 中，可能会使用 startActivityForResult() 方法打开多个不同的 Activity 处理不同的业务，当这些新 Activity 关闭后，系统都会调用前面 Activity 的 onActivityResult(int requestCode, int resultCode, Intent data) 方法。为了知道返回的数据来自于哪个新 Activity，在 onActivityResult() 方法中可以这样做:
 ```
