@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Android项目结构解析
-key: 20170102
+key: 20180102
 tags: android
 category: blog
 date: 02-01-2018
@@ -188,7 +188,7 @@ dependencies {
 
     - implementation fileTree 就是一个本地依赖声明，它表示将 libs 目录下的所有 .jar 后缀的文件都添加到项目的构建路径中。
 
-    - implementation 'com.android.support:appcompat-v7:26.1.0' 就是一个远程声明，'com.android.support:appcompat-v7:26.1.0' 就是一个标准的依赖库格式。
+    - implementation 'com.android.support:appcompat-v7:26.1.0' 就是一个远程声明， 'com.android.support:appcompat-v7:26.1.0' 就是一个标准的依赖库格式。
 
     - implementation project(':依赖库名称')
 
