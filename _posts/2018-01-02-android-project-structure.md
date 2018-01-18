@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Android项目结构解析
+title: Android 项目结构解析
 key: 20180102
 tags: android
 category: blog
