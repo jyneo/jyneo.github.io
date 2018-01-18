@@ -17,6 +17,7 @@ modify_date: 18-01-2018
     - 第一个参数：一个 Intent 对象，用于携带将跳转至下一个界面中使用的数据，使用putExtra() 方法，可以把想要传递的数据暂存在 Intent 中。
 
     - 第二个参数：请求码，用于在之后的回调中判断数据来源于哪个 Activity。
+<!--more-->
 
 - onActivityResult(int requestCode, int resultCode, Intent data)
 
