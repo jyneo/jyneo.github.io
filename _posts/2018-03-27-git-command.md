@@ -4,8 +4,8 @@ title: Git常用命令
 key: 20180327
 tags: Git
 category: blog
-date: 03-27-2018
-modify_date: 03-27-2018
+date: 27-03-2018
+modify_date: 28-03-2018
 ---
 
 ## Git常用命令
