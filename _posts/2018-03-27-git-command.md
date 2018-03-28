@@ -13,7 +13,7 @@ modify_date: 28-03-2018
 ![https://t1.aixinxi.net/o_1c9jv5b3q6pm7h5ss91a2d1kf3a.jpg-j.jpg](https://t1.aixinxi.net/o_1c9jv5b3q6pm7h5ss91a2d1kf3a.jpg-j.jpg)
 
 命令 | 简要介绍 |
-- | :-: | -:
+:- | :-: | -:
 git init | # 初始化本地git仓库（创建新仓库）
 git config --global user.name "xxx" | # 配置用户名
 git config --global user.email "xxx@xxx.com" | # 配置邮件
